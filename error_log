@@ -1,0 +1,77 @@
+[25-Jun-2019 16:05:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k0702714/public_html/demo/dbconnect.php on line 3
+[25-Jun-2019 16:09:12 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k0702714/public_html/demo/dbconnect.php on line 3
+[25-Jun-2019 16:09:12 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/k0702714/public_html/demo/index.php on line 20
+[25-Jun-2019 16:09:12 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/k0702714/public_html/demo/index.php on line 21
+[25-Jun-2019 16:09:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/k0702714/public_html/demo/index.php on line 24
+[25-Jun-2019 16:09:12 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k0702714/public_html/demo/index.php on line 26
+[25-Jun-2019 16:09:25 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k0702714/public_html/demo/dbconnect.php on line 3
+[25-Jun-2019 16:09:25 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/k0702714/public_html/demo/index.php on line 20
+[25-Jun-2019 16:09:25 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/k0702714/public_html/demo/index.php on line 21
+[25-Jun-2019 16:09:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/k0702714/public_html/demo/index.php on line 24
+[25-Jun-2019 16:09:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k0702714/public_html/demo/index.php on line 26
+[25-Jun-2019 16:09:57 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k0702714/public_html/demo/dbconnect.php on line 3
+[25-Jun-2019 16:09:57 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/k0702714/public_html/demo/index.php on line 20
+[25-Jun-2019 16:09:57 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/k0702714/public_html/demo/index.php on line 21
+[25-Jun-2019 16:09:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/k0702714/public_html/demo/index.php on line 24
+[25-Jun-2019 16:09:57 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k0702714/public_html/demo/index.php on line 26
+[25-Jun-2019 16:11:42 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'k0702714'@'localhost' (using password: YES) in /home/k0702714/public_html/demo/dbconnect.php on line 3
+[25-Jun-2019 16:11:42 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/k0702714/public_html/demo/index.php on line 20
+[25-Jun-2019 16:11:42 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/k0702714/public_html/demo/index.php on line 21
+[25-Jun-2019 16:11:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/k0702714/public_html/demo/index.php on line 24
+[25-Jun-2019 16:11:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k0702714/public_html/demo/index.php on line 26
+[25-Jun-2019 16:11:47 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'k0702714'@'localhost' (using password: YES) in /home/k0702714/public_html/demo/dbconnect.php on line 3
+[25-Jun-2019 16:11:47 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/k0702714/public_html/demo/index.php on line 20
+[25-Jun-2019 16:11:47 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/k0702714/public_html/demo/index.php on line 21
+[25-Jun-2019 16:11:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/k0702714/public_html/demo/index.php on line 24
+[25-Jun-2019 16:11:47 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k0702714/public_html/demo/index.php on line 26
+[25-Jun-2019 16:11:48 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'k0702714'@'localhost' (using password: YES) in /home/k0702714/public_html/demo/dbconnect.php on line 3
+[25-Jun-2019 16:11:48 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/k0702714/public_html/demo/index.php on line 20
+[25-Jun-2019 16:11:48 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/k0702714/public_html/demo/index.php on line 21
+[25-Jun-2019 16:11:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/k0702714/public_html/demo/index.php on line 24
+[25-Jun-2019 16:11:48 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k0702714/public_html/demo/index.php on line 26
+[25-Jun-2019 16:11:54 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'k0702714'@'localhost' (using password: YES) in /home/k0702714/public_html/demo/dbconnect.php on line 3
+[25-Jun-2019 16:11:54 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/k0702714/public_html/demo/index.php on line 20
+[25-Jun-2019 16:11:54 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/k0702714/public_html/demo/index.php on line 21
+[25-Jun-2019 16:11:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/k0702714/public_html/demo/index.php on line 24
+[25-Jun-2019 16:11:54 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k0702714/public_html/demo/index.php on line 26
+[25-Jun-2019 16:12:40 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'k0702714'@'localhost' (using password: YES) in /home/k0702714/public_html/demo/dbconnect.php on line 3
+[25-Jun-2019 16:12:40 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/k0702714/public_html/demo/index.php on line 20
+[25-Jun-2019 16:12:40 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/k0702714/public_html/demo/index.php on line 21
+[25-Jun-2019 16:12:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/k0702714/public_html/demo/index.php on line 24
+[25-Jun-2019 16:12:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k0702714/public_html/demo/index.php on line 26
+[25-Jun-2019 16:13:06 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'k0702714'@'localhost' (using password: YES) in /home/k0702714/public_html/demo/dbconnect.php on line 3
+[25-Jun-2019 16:13:06 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/k0702714/public_html/demo/index.php on line 20
+[25-Jun-2019 16:13:06 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/k0702714/public_html/demo/index.php on line 21
+[25-Jun-2019 16:13:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/k0702714/public_html/demo/index.php on line 24
+[25-Jun-2019 16:13:06 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k0702714/public_html/demo/index.php on line 26
+[25-Jun-2019 16:14:03 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'k0702714'@'localhost' (using password: YES) in /home/k0702714/public_html/demo/dbconnect.php on line 3
+[25-Jun-2019 16:14:03 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/k0702714/public_html/demo/index.php on line 20
+[25-Jun-2019 16:14:03 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/k0702714/public_html/demo/index.php on line 21
+[25-Jun-2019 16:14:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/k0702714/public_html/demo/index.php on line 24
+[25-Jun-2019 16:14:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k0702714/public_html/demo/index.php on line 26
+[25-Jun-2019 16:14:07 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'k0702714'@'localhost' (using password: YES) in /home/k0702714/public_html/demo/dbconnect.php on line 3
+[25-Jun-2019 16:14:07 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/k0702714/public_html/demo/index.php on line 20
+[25-Jun-2019 16:14:07 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/k0702714/public_html/demo/index.php on line 21
+[25-Jun-2019 16:14:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/k0702714/public_html/demo/index.php on line 24
+[25-Jun-2019 16:14:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k0702714/public_html/demo/index.php on line 26
+[25-Jun-2019 16:14:07 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'k0702714'@'localhost' (using password: YES) in /home/k0702714/public_html/demo/dbconnect.php on line 3
+[25-Jun-2019 16:14:08 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/k0702714/public_html/demo/index.php on line 20
+[25-Jun-2019 16:14:08 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/k0702714/public_html/demo/index.php on line 21
+[25-Jun-2019 16:14:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/k0702714/public_html/demo/index.php on line 24
+[25-Jun-2019 16:14:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k0702714/public_html/demo/index.php on line 26
+[25-Jun-2019 16:15:06 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'k0702714'@'localhost' (using password: YES) in /home/k0702714/public_html/demo/dbconnect.php on line 3
+[25-Jun-2019 16:15:06 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/k0702714/public_html/demo/index.php on line 20
+[25-Jun-2019 16:15:06 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/k0702714/public_html/demo/index.php on line 21
+[25-Jun-2019 16:15:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/k0702714/public_html/demo/index.php on line 24
+[25-Jun-2019 16:15:06 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k0702714/public_html/demo/index.php on line 26
+[25-Jun-2019 16:16:30 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/k0702714/public_html/demo/dbconnect.php on line 4
+[25-Jun-2019 16:43:12 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'USERNAME DATABASE'@'localhost' (using password: YES) in /home/k0702714/public_html/demo/dbconnect.php on line 3
+[25-Jun-2019 16:43:41 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'USERNAME DATABASE'@'localhost' (using password: YES) in /home/k0702714/public_html/demo/dbconnect.php on line 3
+[25-Jun-2019 16:43:41 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/k0702714/public_html/demo/index.php on line 20
+[25-Jun-2019 16:43:41 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/k0702714/public_html/demo/index.php on line 21
+[25-Jun-2019 16:43:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/k0702714/public_html/demo/index.php on line 24
+[25-Jun-2019 16:43:41 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k0702714/public_html/demo/index.php on line 26
+[25-Jun-2019 16:45:16 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/k0702714/public_html/demo/index.php on line 26
+[25-Jun-2019 16:45:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/k0702714/public_html/demo/index.php on line 26
+[25-Jun-2019 16:45:31 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/k0702714/public_html/demo/index.php on line 26
+[25-Jun-2019 16:46:04 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/k0702714/public_html/demo/index.php on line 26
